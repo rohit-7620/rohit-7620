@@ -14,7 +14,7 @@
 
 ---
 
-# 👨‍💻 Professional Bio
+# 👨‍💻 Bio
 
 **ROHIT SALKE**  
 He/Him  
@@ -34,7 +34,7 @@ He/Him
 
 ---
 
-# 🚀 About Me
+# ✨About Me
 
 💡 I am an **AI / ML Engineer passionate about building intelligent systems and scalable AI applications.**
 
@@ -64,7 +64,7 @@ Key Highlights
 
 ---
 
-# 🚀 Featured Projects
+# 🔘 Featured Projects
 
 ## 🤖 CareerNexus — AI Career Advisor
 
