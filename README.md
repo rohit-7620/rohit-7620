@@ -1,7 +1,7 @@
 <!-- HEADER -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,50:00f2fe,100:6a11cb&height=250&section=header&text=ROHIT%20SALKE&fontSize=65&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20•%20Quantum%20ML%20Researcher%20•%20Cloud%20Developer&descAlignY=60&descSize=22"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,50:00f2fe,100:6a11cb&height=260&section=header&text=ROHIT%20SALKE&fontSize=65&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20•%20Quantum%20ML%20Researcher%20•%20Cloud%20Developer&descAlignY=60&descSize=22"/>
 </p>
 
 <p align="center">
@@ -14,51 +14,53 @@
 
 ---
 
-# 👨‍💻 Bio
+# 👨‍💻 Professional Bio
 
 **ROHIT SALKE**  
 He/Him  
 
-🎓 B.Tech **Artificial Intelligence & Data Science — VPKBIET ’27**  
-🧠 HONOR in **Computational Intelligence**  
+🎓 **B.Tech Artificial Intelligence & Data Science — VPKBIET ’27**  
+🧠 **Honours in Computational Intelligence**
 
-🌍 Lead Student Ambassador **Google • LetsUpgrade • Microsoft Learn**  
-🔬 Ex Research Intern **COEP Technological University**  
+🔬 **Ex Research Intern — COEP Technological University**
 
-🚀 Technical Head **SAAI ’26**  
-💡 Contributor **SSoC4 ’25**  
-☁️ Core Member **GDG Cloud ’26**
+🌍 **Lead Student Ambassador — Google • LetsUpgrade • Microsoft Learn**
+
+🚀 **Technical Head — Student Association of Artificial Intelligence (SAAI)**
+
+☁️ **Core Member — GDG Cloud**
+
+💡 **Contributor — SSoC4’25**
 
 ---
 
 # 🚀 About Me
 
-💡 I am an **AI / ML Engineer passionate about building intelligent systems and scalable AI products.**
+💡 I am an **AI / ML Engineer passionate about building intelligent systems and scalable AI applications.**
 
-### Interests
+### Areas of Interest
 
-🤖 Machine Learning  
-🧠 Deep Learning  
-📚 NLP & Large Language Models  
-⚛️ Quantum Machine Learning  
-☁️ Cloud AI Platforms
+• 🤖 Machine Learning  
+• 🧠 Deep Learning  
+• 📚 Natural Language Processing  
+• ⚛️ Quantum Machine Learning  
+• ☁️ Cloud AI Systems
 
 ---
 
-# 🔬 AI Research
+# 🔬 Research Experience
 
-⚛️ **Quantum Machine Learning Research**
+### ⚛️ Quantum Machine Learning Research
 
-### Heart Attack Prediction using QSVM
+**Heart Attack Prediction using Quantum Support Vector Machine**
 
 Key Highlights
 
-✔ Implemented **Quantum Support Vector Machine**  
-✔ Used **Quantum Fourier Transform feature mapping**  
-✔ Compared **Quantum vs Classical ML models**  
-✔ Achieved **74% prediction accuracy**
+✔ Developed **QSVM model** using Quantum Fourier Transform feature mapping  
+✔ Compared **Quantum ML and Classical ML algorithms**  
+✔ Achieved **74% model accuracy**
 
-📖 Published in **Taylor & Francis Quantum Machine Learning Book**
+📖 Research published in **Taylor & Francis Quantum Machine Learning Book**
 
 ---
 
@@ -66,38 +68,30 @@ Key Highlights
 
 ## 🤖 CareerNexus — AI Career Advisor
 
-**Tech:** Python • NLP • Machine Learning  
+**Tech Stack:** Python • NLP • Machine Learning
 
-✨ Features
+Key Features
 
 ✔ Resume skill analysis  
 ✔ Job market intelligence  
 ✔ AI career recommendations  
-✔ **95% ATS pass rate optimization**
+✔ **95% ATS pass-rate optimization**
 
 ---
 
 ## 🏥 Smart Healthcare EHR System
 
-**Tech:** Python • LLM • OCR • Blockchain • Streamlit  
+**Tech Stack:** Python • LLM • OCR • Blockchain • Streamlit
 
-✨ Features
+Key Features
 
-✔ AI medical record summarization  
-✔ Secure blockchain storage  
+✔ AI-powered medical record summarization  
+✔ Secure blockchain data storage  
 ✔ Smart digital health card generation
 
 ---
 
-# 🧠 AI Skill Radar
-
-<p align="center">
-<img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['Machine Learning','Deep Learning','NLP','LLMs','Cloud AI','Data Science'],datasets:[{label:'Skills',data:[90,85,85,80,80,88]}]}}" width="420"/>
-</p>
-
----
-
-# 💻 Tech Stack
+# 🛠️ Tech Stack
 
 <p align="center">
 
@@ -107,7 +101,7 @@ Key Highlights
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -119,7 +113,7 @@ Key Highlights
 
 ---
 
-# 🔥 Contribution Activity
+# 📈 Contribution Activity
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohit-7620&theme=tokyo-night"/>
@@ -139,9 +133,9 @@ Key Highlights
 
 🥇 **AIR 1 — Silver Award (LetsUpgrade Program 2025)**  
 
-🥇 **1st Rank — CREATENOVA Hackathon**  
+🥇 **1st Rank — CREATENOVA Hackathon**
 
-🏁 **Finalist — GDG TechSprint Hackathon 2026**  
+🏁 **Finalist — GDG TechSprint Hackathon 2026**
 
 👨‍💻 **Technical Head — SAAI**
 
