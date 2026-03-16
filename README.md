@@ -1,37 +1,35 @@
+<!-- HEADER -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,100:6C63FF&height=260&section=header&text=Rohit%20Salke&fontSize=70&fontAlignY=38&animation=fadeIn&desc=AI/ML%20Engineer%20•%20Quantum%20ML%20Researcher%20•%20Google%20Student%20Ambassador&descAlignY=60&descSize=22"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,100:6C63FF&height=280&section=header&text=Rohit%20Salke&fontSize=70&fontAlignY=35&animation=fadeIn&desc=AI%20Engineer%20•%20Quantum%20ML%20Researcher%20•%20Google%20Student%20Ambassador&descAlignY=60&descSize=22"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D1FF&center=true&vCenter=true&width=650&lines=AI%20%2F%20ML%20Engineer;Quantum%20Machine%20Learning%20Researcher;Lead%20Google%20Student%20Ambassador;Full%20Stack%20AI%20Developer;Open%20Source%20%26%20Cloud%20Enthusiast"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D1FF&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Engineer;Quantum+Machine+Learning+Researcher;Full+Stack+AI+Developer;Cloud+%2B+AI+Builder;Open+Source+Contributor"/>
 </p>
 
 <p align="center">
-<a href="https://linkedin.com/in/rohit-salke">
-<img src="https://img.shields.io/badge/LinkedIn-Rohit%20Salke-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
 
-<a href="mailto:rohitsalke@outlook.com">
-<img src="https://img.shields.io/badge/Outlook-Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=rohit-7620&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 
-<a href="https://github.com/rohit-7620">
-<img src="https://img.shields.io/badge/GitHub-rohit--7620-181717?style=for-the-badge&logo=github"/>
-</a>
 </p>
 
 ---
 
 # 🚀 About Me
 
-🎓 **B.Tech AI & Data Science Student (CGPA: 8.7)**  
-🏫 Vidya Pratishthan's Kamalnayan Bajaj Institute of Engineering & Technology  
+🎓 **B.Tech Artificial Intelligence & Data Science**  
+📍 Vidya Pratishthan's Kamalnayan Bajaj Institute of Engineering & Technology  
 
-💡 Aspiring **AI/ML Engineer** passionate about building intelligent systems that solve real-world problems using **Machine Learning, Deep Learning, NLP, and Quantum Machine Learning**.
+💡 Passionate **AI/ML Engineer** focused on building scalable intelligent systems using:
 
-🔬 Research experience in **Quantum Machine Learning**, where I developed a **QSVM model using QFT feature mapping** for heart attack prediction.
+- Machine Learning
+- Deep Learning
+- NLP & LLMs
+- Quantum Machine Learning
+- Cloud AI Platforms
 
-⚡ I love building **AI products, scalable ML systems, and cloud-powered applications.**
+🔬 Conducted **Quantum ML research on heart attack prediction** using **QSVM with QFT feature mapping**.
 
 ---
 
@@ -44,71 +42,173 @@ LetsUpgrade Program 2025
 
 🏁 **Finalist – GDG TechSprint Hackathon 2026**
 
-👨‍💻 **Lead Google Student Ambassador**  
-Mentoring **2000+ students** and organizing AI & developer workshops.
+👨‍💻 **Lead Google Student Ambassador**
 
-🧠 **Published Research Author**  
-Quantum Machine Learning research published in **Taylor & Francis QML Book**
+👨‍💻 **Technical Head – SAAI (Student Association of Artificial Intelligence)**
+
+📚 **Published Quantum Machine Learning research (Taylor & Francis)**
 
 ---
 
 # 💼 Experience
 
-### 🔬 COEP Technological University  
-**Summer Research Intern (May 2025 – Aug 2025)**
+### 🔬 COEP Technological University
+**Summer Research Intern**
 
-• Compared **quantum vs classical ML models** for heart attack prediction  
-• Implemented **Quantum SVM with QFT feature mapping**  
-• Achieved **74% prediction accuracy**  
-
----
-
-### 📊 YBI Foundation  
-**AI & Data Skills Intern (Jul 2024 – Aug 2024)**
-
-• Performed **EDA, preprocessing, and feature engineering**  
-• Built ML models using **TensorFlow & Scikit-Learn**  
-• Worked on **classification, regression, and clustering**
+• Built **Quantum Support Vector Machine (QSVM)**  
+• Compared **Quantum vs Classical ML models**  
+• Achieved **74% accuracy for heart attack prediction**
 
 ---
 
-### 🌐 Lead Google Student Ambassador  
-**Ping Digital (Jan 2026 – Present)**
+### 📊 YBI Foundation
+**AI & Data Science Intern**
 
-• Leading developer initiatives for **2000+ students**  
-• Conducting **Gemini AI & LLM workshops**
-
----
-
-### 🧠 Technical Head — SAAI
-
-Student Association of Artificial Intelligence
-
-• Leading AI/ML technical projects  
-• Mentoring students on **ML projects & research**
+• Data preprocessing & feature engineering  
+• ML model development using TensorFlow & Scikit-Learn  
 
 ---
 
-# 🚀 Featured Projects
+### 🌐 Google Student Ambassador
 
-## 🤖 CareerNexus – AI Career Advisor
-Tech: **Python, NLP, Machine Learning**
+• Leading AI workshops and developer programs  
+• Promoting **AI, LLMs, and Cloud technologies**
 
-• AI platform analyzing resumes and job trends  
-• Intelligent resume scoring system  
-• Improved **ATS pass rate by 95%**
+---
+
+# 🚀 Projects
+
+## 🤖 CareerNexus — AI Career Advisor
+
+Tech: **Python • NLP • ML**
+
+✔ Resume skill analysis  
+✔ Job market intelligence  
+✔ **95% ATS pass rate optimization**
 
 ---
 
 ## 🏥 Smart Healthcare EHR System
-Tech: **Python, LLMs, OCR, Blockchain, Streamlit**
 
-• AI-powered medical record analysis  
-• Automated **EHR summarization using LLMs**  
-• Blockchain-backed secure medical storage
+Tech: **Python • LLM • OCR • Blockchain • Streamlit**
+
+✔ AI medical record summarization  
+✔ Blockchain-based data security  
+✔ Automated smart health card generation
 
 ---
 
-# 🧠 Technical Skills
+# 🧠 Tech Stack
 
-### 💻 Programming
+### Programming
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css" />
+
+### AI / ML
+
+Machine Learning • Deep Learning  
+Transformers • NLP • LLMs  
+Quantum Machine Learning  
+
+### Frameworks
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,react,nodejs,nextjs" />
+
+### Cloud
+
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+
+---
+
+# ☁ Certifications
+
+🏅 AWS Cloud Practitioner Essentials  
+
+🏅 Neo4j Certified Professional  
+
+🏅 Machine Learning for Core Engineering Disciplines — IIT Madras (NPTEL)
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rohit-7620&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-7620&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit-7620&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=rohit-7620&theme=tokyonight&row=1&column=7"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohit-7620&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🧠 3D Contribution Graph
+
+<p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+# 🌍 Community Leadership
+
+👨‍💻 Technical Head — **SAAI**
+
+👨‍💻 Lead **Google Student Ambassador**
+
+👨‍💻 Core Member — **GDG AI/ML & Cloud**
+
+Mentoring students in **AI, Cloud, and Open Source development**
+
+---
+
+# 🤝 Let's Collaborate
+
+Interested in collaborating on:
+
+• AI Research  
+• ML Products  
+• Open Source  
+• Quantum ML  
+
+📩 **Email:** rohitsalke@outlook.com  
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,100:6C63FF&height=120&section=footer"/>
+
+</p>
