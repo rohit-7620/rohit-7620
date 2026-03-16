@@ -1,18 +1,18 @@
 <!-- HEADER -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,100:6C63FF&height=280&section=header&text=ROHIT%20SALKE&fontSize=70&fontAlignY=35&animation=fadeIn&desc=AI%20Engineer%20•%20Quantum%20ML%20Researcher%20•%20Cloud%20Developer&descAlignY=60&descSize=22"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,50:00f2fe,100:6a11cb&height=250&section=header&text=ROHIT%20SALKE&fontSize=65&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20•%20Quantum%20ML%20Researcher%20•%20Cloud%20Developer&descAlignY=60&descSize=22"/>
 </p>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00D1FF&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+Engineer;Quantum+Machine+Learning+Researcher;Full+Stack+AI+Developer;Cloud+AI+Builder;Open+Source+Contributor"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Engineer;Quantum+Machine+Learning+Researcher;Full+Stack+AI+Developer;Cloud+AI+Builder;Open+Source+Contributor"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=rohit-7620&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=rohit-7620&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen"/>
 
 </p>
 
@@ -20,18 +20,20 @@
 
 # 👨‍💻 Bio
 
+<img src="https://img.shields.io/badge/Profile-AI%20Engineer-blueviolet?style=for-the-badge&logo=ai"/>
+
 **ROHIT SALKE**  
 He/Him  
 
-Lead Student Ambassador **Google • LetsUpgrade • Microsoft Learn Student Ambassador**
+Lead Student Ambassador **Google • LetsUpgrade • Microsoft Learn**
 
 Ex Research Intern **COEP Technological University**
 
-B.Tech **Artificial Intelligence & Data Science – VPKBIET '27**
+B.Tech **Artificial Intelligence & Data Science – VPKBIET ’27**
 
 HONOR in **Computational Intelligence**
 
-Technical Head **SAAI '26**
+Technical Head **SAAI ’26**
 
 Contributor **SSoC4 ’25**
 
@@ -41,7 +43,9 @@ Core Member **GDG Cloud ’26**
 
 # 🚀 About Me
 
-I am an **AI / ML Engineer passionate about building intelligent systems that solve real-world problems.**
+<img src="https://img.shields.io/badge/AI-Developer-gradient?style=for-the-badge"/>
+
+I am an **AI / ML Engineer passionate about building intelligent systems and scalable AI products.**
 
 My interests include:
 
@@ -49,109 +53,73 @@ My interests include:
 • Deep Learning  
 • NLP & LLMs  
 • Quantum Machine Learning  
-• Cloud AI Systems  
-
-I enjoy building **AI products, research-driven systems, and scalable ML pipelines.**
+• Cloud AI Platforms  
 
 ---
 
-# 🔬 AI Research & Publications
+# 🔬 AI Research
 
-### Quantum Machine Learning Research
+<p align="center">
+<img src="https://img.shields.io/badge/Research-Quantum%20Machine%20Learning-ff69b4?style=for-the-badge"/>
+</p>
 
-Research Topic:
+Research Topic
 
 **Heart Attack Prediction using Quantum Support Vector Machine**
 
 Highlights
 
-• Compared **Quantum ML vs Classical ML models**  
 • Implemented **QSVM with Quantum Fourier Transform feature mapping**  
+• Compared **Quantum vs Classical ML models**  
 • Achieved **74% prediction accuracy**
 
-📚 Publication:
-
-**Quantum Machine Learning Research — Taylor & Francis QML Book**
+📚 Published in **Taylor & Francis Quantum Machine Learning Book**
 
 ---
 
-# 🚀 Live Project Showcase
+# 🚀 Featured Projects
+
+<p align="center">
+<img src="https://img.shields.io/badge/Projects-AI%20Systems-orange?style=for-the-badge"/>
+</p>
 
 ### 🤖 CareerNexus — AI Career Advisor
 
-Tech Stack
+Tech: Python • NLP • ML
 
-Python • NLP • Machine Learning
-
-Features
-
-• Resume skill analysis  
-• Job market intelligence  
-• AI career recommendations  
-• **95% ATS pass-rate optimization**
+✔ Resume skill analysis  
+✔ Job market intelligence  
+✔ **95% ATS pass rate optimization**
 
 ---
 
 ### 🏥 Smart Healthcare EHR System
 
-Tech Stack
+Tech: Python • LLM • OCR • Blockchain • Streamlit
 
-Python • LLM • OCR • Blockchain • Streamlit
-
-Features
-
-• AI medical record summarization  
-• Secure blockchain storage  
-• Smart health card generation
+✔ AI medical record summarization  
+✔ Blockchain-secured storage  
+✔ Smart health card generation
 
 ---
 
 # 🧠 AI Skill Radar
 
 <p align="center">
-<img src="https://quickchart.io/chart?c={
-type:'radar',
-data:{
-labels:['Machine Learning','Deep Learning','NLP','LLMs','Cloud AI','Data Science'],
-datasets:[{
-label:'AI Skill Level',
-data:[90,85,85,80,80,88]
-}]
-}
-}" width="500"/>
+
+<img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['Machine Learning','Deep Learning','NLP','LLMs','Cloud AI','Data Science'],datasets:[{label:'Skills',data:[90,85,85,80,80,88]}]}}" width="420"/>
+
 </p>
 
 ---
 
 # 💻 Tech Stack
 
-### Programming
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,tensorflow,pytorch,react,nodejs,nextjs,aws,azure,gcp,mongodb,mysql,git,linux,vscode"/>
 
-### AI / ML
-
-Machine Learning  
-Deep Learning  
-Transformers  
-NLP  
-Quantum Machine Learning  
-
-### Frameworks
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,react,nodejs,nextjs"/>
-
-### Cloud Platforms
-
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp"/>
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode"/>
+</p>
 
 ---
 
@@ -159,71 +127,45 @@ Quantum Machine Learning
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rohit-7620&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rohit-7620&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-7620&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-7620&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 Contribution Activity
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit-7620&theme=tokyonight&hide_border=true"/>
-</p>
 
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rohit-7620&theme=tokyonight&row=1&column=7"/>
-</p>
-
----
-
-# 📈 GitHub Contribution Graph
-
-<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohit-7620&theme=tokyo-night"/>
+
 </p>
 
 ---
 
-# 🌆 GitHub Contribution Skyline
+# 🌆 Contribution Skyline
 
 <p align="center">
+
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+
 </p>
 
 ---
 
-# 🧑‍💻 Dynamic LeetCode Stats
+# ✍️ Blog / Articles
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/rohit-7620?theme=dark&font=Fira%20Code&ext=heatmap"/>
+
+<img src="https://img.shields.io/badge/Medium-Blog%20Articles-black?style=for-the-badge&logo=medium"/>
+
 </p>
-
----
-
-# ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
-Automatically updated using GitHub Actions.
-
+Latest articles will automatically appear here
 <!-- BLOG-POST-LIST:END -->
-
----
-
-# ☁ Certifications
-
-AWS Cloud Practitioner Essentials  
-
-Neo4j Certified Professional  
-
-Machine Learning for Core Engineering Disciplines — IIT Madras (NPTEL)
 
 ---
 
@@ -239,10 +181,16 @@ Machine Learning for Core Engineering Disciplines — IIT Madras (NPTEL)
 <img src="https://img.shields.io/badge/Email-Outlook-blue?style=for-the-badge&logo=microsoft-outlook"/>
 </a>
 
+<a href="https://github.com/rohit-7620">
+<img src="https://img.shields.io/badge/GitHub-rohit--7620-black?style=for-the-badge&logo=github"/>
+</a>
+
 </p>
 
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,100:6C63FF&height=120&section=footer"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,50:00f2fe,100:6a11cb&height=120&section=footer"/>
+
 </p>
