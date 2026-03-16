@@ -1,140 +1,157 @@
 <!-- HEADER -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,100:6C63FF&height=280&section=header&text=Rohit%20Salke&fontSize=70&fontAlignY=35&animation=fadeIn&desc=AI%20Engineer%20•%20Quantum%20ML%20Researcher%20•%20Google%20Student%20Ambassador&descAlignY=60&descSize=22"/>
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D1FF&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Engineer;Quantum+Machine+Learning+Researcher;Full+Stack+AI+Developer;Cloud+%2B+AI+Builder;Open+Source+Contributor"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,100:6C63FF&height=280&section=header&text=ROHIT%20SALKE&fontSize=70&fontAlignY=35&animation=fadeIn&desc=AI%20Engineer%20•%20Quantum%20ML%20Researcher%20•%20Cloud%20Developer&descAlignY=60&descSize=22"/>
 </p>
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=rohit-7620&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00D1FF&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+Engineer;Quantum+Machine+Learning+Researcher;Full+Stack+AI+Developer;Cloud+AI+Builder;Open+Source+Contributor"/>
 
 </p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=rohit-7620&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet"/>
+
+</p>
+
+---
+
+# 👨‍💻 Bio
+
+**ROHIT SALKE**  
+He/Him  
+
+Lead Student Ambassador **Google • LetsUpgrade • Microsoft Learn Student Ambassador**
+
+Ex Research Intern **COEP Technological University**
+
+B.Tech **Artificial Intelligence & Data Science – VPKBIET '27**
+
+HONOR in **Computational Intelligence**
+
+Technical Head **SAAI '26**
+
+Contributor **SSoC4 ’25**
+
+Core Member **GDG Cloud ’26**
 
 ---
 
 # 🚀 About Me
 
-🎓 **B.Tech Artificial Intelligence & Data Science**  
-📍 Vidya Pratishthan's Kamalnayan Bajaj Institute of Engineering & Technology  
+I am an **AI / ML Engineer passionate about building intelligent systems that solve real-world problems.**
 
-💡 Passionate **AI/ML Engineer** focused on building scalable intelligent systems using:
+My interests include:
 
-- Machine Learning
-- Deep Learning
-- NLP & LLMs
-- Quantum Machine Learning
-- Cloud AI Platforms
+• Machine Learning  
+• Deep Learning  
+• NLP & LLMs  
+• Quantum Machine Learning  
+• Cloud AI Systems  
 
-🔬 Conducted **Quantum ML research on heart attack prediction** using **QSVM with QFT feature mapping**.
-
----
-
-# 🏆 Achievements
-
-🥇 **AIR 1 – Silver Award**  
-LetsUpgrade Program 2025  
-
-🥇 **1st Rank – CREATENOVA Hackathon**
-
-🏁 **Finalist – GDG TechSprint Hackathon 2026**
-
-👨‍💻 **Lead Google Student Ambassador**
-
-👨‍💻 **Technical Head – SAAI (Student Association of Artificial Intelligence)**
-
-📚 **Published Quantum Machine Learning research (Taylor & Francis)**
+I enjoy building **AI products, research-driven systems, and scalable ML pipelines.**
 
 ---
 
-# 💼 Experience
+# 🔬 AI Research & Publications
 
-### 🔬 COEP Technological University
-**Summer Research Intern**
+### Quantum Machine Learning Research
 
-• Built **Quantum Support Vector Machine (QSVM)**  
-• Compared **Quantum vs Classical ML models**  
-• Achieved **74% accuracy for heart attack prediction**
+Research Topic:
 
----
+**Heart Attack Prediction using Quantum Support Vector Machine**
 
-### 📊 YBI Foundation
-**AI & Data Science Intern**
+Highlights
 
-• Data preprocessing & feature engineering  
-• ML model development using TensorFlow & Scikit-Learn  
+• Compared **Quantum ML vs Classical ML models**  
+• Implemented **QSVM with Quantum Fourier Transform feature mapping**  
+• Achieved **74% prediction accuracy**
 
----
+📚 Publication:
 
-### 🌐 Google Student Ambassador
-
-• Leading AI workshops and developer programs  
-• Promoting **AI, LLMs, and Cloud technologies**
+**Quantum Machine Learning Research — Taylor & Francis QML Book**
 
 ---
 
-# 🚀 Projects
+# 🚀 Live Project Showcase
 
-## 🤖 CareerNexus — AI Career Advisor
+### 🤖 CareerNexus — AI Career Advisor
 
-Tech: **Python • NLP • ML**
+Tech Stack
 
-✔ Resume skill analysis  
-✔ Job market intelligence  
-✔ **95% ATS pass rate optimization**
+Python • NLP • Machine Learning
 
----
+Features
 
-## 🏥 Smart Healthcare EHR System
-
-Tech: **Python • LLM • OCR • Blockchain • Streamlit**
-
-✔ AI medical record summarization  
-✔ Blockchain-based data security  
-✔ Automated smart health card generation
+• Resume skill analysis  
+• Job market intelligence  
+• AI career recommendations  
+• **95% ATS pass-rate optimization**
 
 ---
 
-# 🧠 Tech Stack
+### 🏥 Smart Healthcare EHR System
+
+Tech Stack
+
+Python • LLM • OCR • Blockchain • Streamlit
+
+Features
+
+• AI medical record summarization  
+• Secure blockchain storage  
+• Smart health card generation
+
+---
+
+# 🧠 AI Skill Radar
+
+<p align="center">
+<img src="https://quickchart.io/chart?c={
+type:'radar',
+data:{
+labels:['Machine Learning','Deep Learning','NLP','LLMs','Cloud AI','Data Science'],
+datasets:[{
+label:'AI Skill Level',
+data:[90,85,85,80,80,88]
+}]
+}
+}" width="500"/>
+</p>
+
+---
+
+# 💻 Tech Stack
 
 ### Programming
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css"/>
 
 ### AI / ML
 
-Machine Learning • Deep Learning  
-Transformers • NLP • LLMs  
+Machine Learning  
+Deep Learning  
+Transformers  
+NLP  
 Quantum Machine Learning  
 
 ### Frameworks
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,react,nodejs,nextjs" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,react,nodejs,nextjs"/>
 
-### Cloud
+### Cloud Platforms
 
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp"/>
 
 ### Databases
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
-
----
-
-# ☁ Certifications
-
-🏅 AWS Cloud Practitioner Essentials  
-
-🏅 Neo4j Certified Professional  
-
-🏅 Machine Learning for Core Engineering Disciplines — IIT Madras (NPTEL)
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode"/>
 
 ---
 
@@ -158,7 +175,7 @@ Quantum Machine Learning
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=rohit-7620&theme=tokyonight&row=1&column=7"/>
@@ -166,7 +183,7 @@ Quantum Machine Learning
 
 ---
 
-# 📈 Contribution Graph
+# 📈 GitHub Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohit-7620&theme=tokyo-night"/>
@@ -174,41 +191,58 @@ Quantum Machine Learning
 
 ---
 
-# 🧠 3D Contribution Graph
+# 🌆 GitHub Contribution Skyline
 
 <p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
 
-# 🌍 Community Leadership
+# 🧑‍💻 Dynamic LeetCode Stats
 
-👨‍💻 Technical Head — **SAAI**
-
-👨‍💻 Lead **Google Student Ambassador**
-
-👨‍💻 Core Member — **GDG AI/ML & Cloud**
-
-Mentoring students in **AI, Cloud, and Open Source development**
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/rohit-7620?theme=dark&font=Fira%20Code&ext=heatmap"/>
+</p>
 
 ---
 
-# 🤝 Let's Collaborate
+# ✍️ Latest Blog Posts
 
-Interested in collaborating on:
+<!-- BLOG-POST-LIST:START -->
 
-• AI Research  
-• ML Products  
-• Open Source  
-• Quantum ML  
+Automatically updated using GitHub Actions.
 
-📩 **Email:** rohitsalke@outlook.com  
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+# ☁ Certifications
+
+AWS Cloud Practitioner Essentials  
+
+Neo4j Certified Professional  
+
+Machine Learning for Core Engineering Disciplines — IIT Madras (NPTEL)
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/rohit-salke">
+<img src="https://img.shields.io/badge/LinkedIn-Rohit%20Salke-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:rohitsalke@outlook.com">
+<img src="https://img.shields.io/badge/Email-Outlook-blue?style=for-the-badge&logo=microsoft-outlook"/>
+</a>
+
+</p>
 
 ---
 
 <p align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,100:6C63FF&height=120&section=footer"/>
-
 </p>
