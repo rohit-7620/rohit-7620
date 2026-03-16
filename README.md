@@ -1,59 +1,114 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=250&section=header&text=Rohit%20Salke&fontSize=70&animation=fadeIn&fontAlignY=35&desc=AI%20/%20ML%20Engineer%20•%20Quantum%20Researcher&descAlignY=60&descSize=25" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,100:6C63FF&height=260&section=header&text=Rohit%20Salke&fontSize=70&fontAlignY=38&animation=fadeIn&desc=AI/ML%20Engineer%20•%20Quantum%20ML%20Researcher%20•%20Google%20Student%20Ambassador&descAlignY=60&descSize=22"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=Lead+Google+Student+Ambassador;All+India+Rank+1+(Silver);Published+QML+Author;Full+Stack+AI+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D1FF&center=true&vCenter=true&width=650&lines=AI%20%2F%20ML%20Engineer;Quantum%20Machine%20Learning%20Researcher;Lead%20Google%20Student%20Ambassador;Full%20Stack%20AI%20Developer;Open%20Source%20%26%20Cloud%20Enthusiast"/>
 </p>
 
 <p align="center">
-<a href="https://linkedin.com/in/rohit-salke"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:rohitsalke@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
+<a href="https://linkedin.com/in/rohit-salke">
+<img src="https://img.shields.io/badge/LinkedIn-Rohit%20Salke-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:rohitsalke@outlook.com">
+<img src="https://img.shields.io/badge/Outlook-Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+</a>
+
+<a href="https://github.com/rohit-7620">
+<img src="https://img.shields.io/badge/GitHub-rohit--7620-181717?style=for-the-badge&logo=github"/>
+</a>
 </p>
 
 ---
 
-### 🏆 Key Highlights
-- [cite_start]🥇 **AIR 1 (Silver Award)**: Ranked 1st in the LetsUpgrade Program 2025.
-- [cite_start]🔬 **Quantum Researcher**: Published author in **Quantum Machine Learning** (Taylor & Francis)[cite: 20].
-- [cite_start]☁️ **Cloud Certified**: AWS Cloud Practitioner & Neo4j Certified Professional.
-- [cite_start]🏫 **Leadership**: Lead Google Student Ambassador & Technical Head at SAAI[cite: 25, 29].
+# 🚀 About Me
+
+🎓 **B.Tech AI & Data Science Student (CGPA: 8.7)**  
+🏫 Vidya Pratishthan's Kamalnayan Bajaj Institute of Engineering & Technology  
+
+💡 Aspiring **AI/ML Engineer** passionate about building intelligent systems that solve real-world problems using **Machine Learning, Deep Learning, NLP, and Quantum Machine Learning**.
+
+🔬 Research experience in **Quantum Machine Learning**, where I developed a **QSVM model using QFT feature mapping** for heart attack prediction.
+
+⚡ I love building **AI products, scalable ML systems, and cloud-powered applications.**
 
 ---
 
-### 🚀 Technical Arsenal
+# 🏆 Achievements
 
-| Category | Specialized Tech Stack |
-| :--- | :--- |
-| **AI / Machine Learning** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/QML-blue?style=flat-square&logo=qiskit&logoColor=white" /> |
-| **Cloud & DevOps** | <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" /> <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> |
-| **Full Stack & DB** | <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> |
-| **Core Skills** | [cite_start]Data Structures (DSA), OOP, SQL, Linux, n8n Automation[cite: 46, 47, 49]. |
+🥇 **AIR 1 – Silver Award**  
+LetsUpgrade Program 2025  
+
+🥇 **1st Rank – CREATENOVA Hackathon**
+
+🏁 **Finalist – GDG TechSprint Hackathon 2026**
+
+👨‍💻 **Lead Google Student Ambassador**  
+Mentoring **2000+ students** and organizing AI & developer workshops.
+
+🧠 **Published Research Author**  
+Quantum Machine Learning research published in **Taylor & Francis QML Book**
+
+---
+
+# 💼 Experience
+
+### 🔬 COEP Technological University  
+**Summer Research Intern (May 2025 – Aug 2025)**
+
+• Compared **quantum vs classical ML models** for heart attack prediction  
+• Implemented **Quantum SVM with QFT feature mapping**  
+• Achieved **74% prediction accuracy**  
 
 ---
 
-### 🧪 Featured Innovation
-- [cite_start]**CareerNexus**: AI Career Advisor using NLP to optimize ATS pass-rates by **95%**[cite: 33, 35].
-- [cite_start]**EHR Smart Healthcare**: Integrated **LLMs, OCR, and Blockchain** for secure medical analysis[cite: 36, 44].
-- [cite_start]**Quantum Heart Prediction**: Developed a **QSVM** with QFT-based mapping achieving 74% accuracy.
+### 📊 YBI Foundation  
+**AI & Data Skills Intern (Jul 2024 – Aug 2024)**
+
+• Performed **EDA, preprocessing, and feature engineering**  
+• Built ML models using **TensorFlow & Scikit-Learn**  
+• Worked on **classification, regression, and clustering**
 
 ---
 
-### 📊 Ecosystem Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohit-7620&show_icons=true&theme=radical&rank_icon=github&border_radius=10" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-7620&layout=compact&theme=radical&border_radius=10" width="48%" />
-</p>
+### 🌐 Lead Google Student Ambassador  
+**Ping Digital (Jan 2026 – Present)**
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit-7620&theme=radical&hide_border=true" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohit-7620&theme=radical" width="100%" />
-</p>
+• Leading developer initiatives for **2000+ students**  
+• Conducting **Gemini AI & LLM workshops**
 
 ---
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=30&section=footer" />
-</p>
+
+### 🧠 Technical Head — SAAI
+
+Student Association of Artificial Intelligence
+
+• Leading AI/ML technical projects  
+• Mentoring students on **ML projects & research**
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 CareerNexus – AI Career Advisor
+Tech: **Python, NLP, Machine Learning**
+
+• AI platform analyzing resumes and job trends  
+• Intelligent resume scoring system  
+• Improved **ATS pass rate by 95%**
+
+---
+
+## 🏥 Smart Healthcare EHR System
+Tech: **Python, LLMs, OCR, Blockchain, Streamlit**
+
+• AI-powered medical record analysis  
+• Automated **EHR summarization using LLMs**  
+• Blockchain-backed secure medical storage
+
+---
+
+# 🧠 Technical Skills
+
+### 💻 Programming
