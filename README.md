@@ -5,110 +5,94 @@
 </p>
 
 <p align="center">
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Engineer;Quantum+Machine+Learning+Researcher;Full+Stack+AI+Developer;Cloud+AI+Builder;Open+Source+Contributor"/>
-
 </p>
 
 <p align="center">
-
 <img src="https://komarev.com/ghpvc/?username=rohit-7620&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen"/>
-
 </p>
 
 ---
 
 # 👨‍💻 Bio
 
-<img src="https://img.shields.io/badge/Profile-AI%20Engineer-blueviolet?style=for-the-badge&logo=ai"/>
-
 **ROHIT SALKE**  
 He/Him  
 
-Lead Student Ambassador **Google • LetsUpgrade • Microsoft Learn**
+🎓 B.Tech **Artificial Intelligence & Data Science — VPKBIET ’27**  
+🧠 HONOR in **Computational Intelligence**  
 
-Ex Research Intern **COEP Technological University**
+🌍 Lead Student Ambassador **Google • LetsUpgrade • Microsoft Learn**  
+🔬 Ex Research Intern **COEP Technological University**  
 
-B.Tech **Artificial Intelligence & Data Science – VPKBIET ’27**
-
-HONOR in **Computational Intelligence**
-
-Technical Head **SAAI ’26**
-
-Contributor **SSoC4 ’25**
-
-Core Member **GDG Cloud ’26**
+🚀 Technical Head **SAAI ’26**  
+💡 Contributor **SSoC4 ’25**  
+☁️ Core Member **GDG Cloud ’26**
 
 ---
 
 # 🚀 About Me
 
-<img src="https://img.shields.io/badge/AI-Developer-gradient?style=for-the-badge"/>
+💡 I am an **AI / ML Engineer passionate about building intelligent systems and scalable AI products.**
 
-I am an **AI / ML Engineer passionate about building intelligent systems and scalable AI products.**
+### Interests
 
-My interests include:
-
-• Machine Learning  
-• Deep Learning  
-• NLP & LLMs  
-• Quantum Machine Learning  
-• Cloud AI Platforms  
+🤖 Machine Learning  
+🧠 Deep Learning  
+📚 NLP & Large Language Models  
+⚛️ Quantum Machine Learning  
+☁️ Cloud AI Platforms
 
 ---
 
 # 🔬 AI Research
 
-<p align="center">
-<img src="https://img.shields.io/badge/Research-Quantum%20Machine%20Learning-ff69b4?style=for-the-badge"/>
-</p>
+⚛️ **Quantum Machine Learning Research**
 
-Research Topic
+### Heart Attack Prediction using QSVM
 
-**Heart Attack Prediction using Quantum Support Vector Machine**
+Key Highlights
 
-Highlights
+✔ Implemented **Quantum Support Vector Machine**  
+✔ Used **Quantum Fourier Transform feature mapping**  
+✔ Compared **Quantum vs Classical ML models**  
+✔ Achieved **74% prediction accuracy**
 
-• Implemented **QSVM with Quantum Fourier Transform feature mapping**  
-• Compared **Quantum vs Classical ML models**  
-• Achieved **74% prediction accuracy**
-
-📚 Published in **Taylor & Francis Quantum Machine Learning Book**
+📖 Published in **Taylor & Francis Quantum Machine Learning Book**
 
 ---
 
 # 🚀 Featured Projects
 
-<p align="center">
-<img src="https://img.shields.io/badge/Projects-AI%20Systems-orange?style=for-the-badge"/>
-</p>
+## 🤖 CareerNexus — AI Career Advisor
 
-### 🤖 CareerNexus — AI Career Advisor
+**Tech:** Python • NLP • Machine Learning  
 
-Tech: Python • NLP • ML
+✨ Features
 
 ✔ Resume skill analysis  
 ✔ Job market intelligence  
+✔ AI career recommendations  
 ✔ **95% ATS pass rate optimization**
 
 ---
 
-### 🏥 Smart Healthcare EHR System
+## 🏥 Smart Healthcare EHR System
 
-Tech: Python • LLM • OCR • Blockchain • Streamlit
+**Tech:** Python • LLM • OCR • Blockchain • Streamlit  
+
+✨ Features
 
 ✔ AI medical record summarization  
-✔ Blockchain-secured storage  
-✔ Smart health card generation
+✔ Secure blockchain storage  
+✔ Smart digital health card generation
 
 ---
 
 # 🧠 AI Skill Radar
 
 <p align="center">
-
 <img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['Machine Learning','Deep Learning','NLP','LLMs','Cloud AI','Data Science'],datasets:[{label:'Skills',data:[90,85,85,80,80,88]}]}}" width="420"/>
-
 </p>
 
 ---
@@ -138,34 +122,30 @@ Tech: Python • LLM • OCR • Blockchain • Streamlit
 # 🔥 Contribution Activity
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohit-7620&theme=tokyo-night"/>
-
 </p>
 
 ---
 
-# 🌆 Contribution Skyline
+# 🐍 Contribution Animation
 
 <p align="center">
-
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-
 </p>
 
 ---
 
-# ✍️ Blog / Articles
+# 🏆 Achievements
 
-<p align="center">
+🥇 **AIR 1 — Silver Award (LetsUpgrade Program 2025)**  
 
-<img src="https://img.shields.io/badge/Medium-Blog%20Articles-black?style=for-the-badge&logo=medium"/>
+🥇 **1st Rank — CREATENOVA Hackathon**  
 
-</p>
+🏁 **Finalist — GDG TechSprint Hackathon 2026**  
 
-<!-- BLOG-POST-LIST:START -->
-Latest articles will automatically appear here
-<!-- BLOG-POST-LIST:END -->
+👨‍💻 **Technical Head — SAAI**
+
+🌍 **Lead Student Ambassador — Google, LetsUpgrade & Microsoft Learn**
 
 ---
 
@@ -190,7 +170,5 @@ Latest articles will automatically appear here
 ---
 
 <p align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,50:00f2fe,100:6a11cb&height=120&section=footer"/>
-
 </p>
