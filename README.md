@@ -1,43 +1,47 @@
-# Hi there, I'm Rohit Salke 👋 
-
-**Aspiring AI/ML Engineer | Quantum ML Researcher | Lead Google Student Ambassador**
-
-[cite_start]I am a B.Tech student in Artificial Intelligence & Data Science with a passion for building intelligent, scalable systems[cite: 6, 10]. [cite_start]My work spans from Quantum Machine Learning research at COEP Tech to building LLM-based healthcare solutions[cite: 12, 18, 43].
-
----
-
-### 🚀 Quick Summary
-- [cite_start]🔭 **Currently:** Technical Head at the Student Association of AI (SAAI)[cite: 29].
-- [cite_start]🧠 **Research:** Published author in Taylor & Francis for Quantum Support Vector Machine (QSVM) research[cite: 20].
-- [cite_start]🎓 **Education:** Pursuing B.Tech at VPKBIET (CGPA: 8.7) with Honours in Computational Intelligence (CGPA: 9.1)[cite: 10, 14, 16].
-- [cite_start]🏆 **Achievement:** AIR 1 (Silver Award) in the LetsUpgrade 2025 program[cite: 58].
+<h1 align="center">Rohit Salke</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=AI+%2F+ML+Engineer;Quantum+ML+Researcher;Lead+Google+Student+Ambassador;Full+Stack+Developer" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🛠 Tech Stack & Tools
-| Category | Technologies |
-| :--- | :--- |
-| **AI/ML** | [cite_start]Python, TensorFlow, PyTorch, Scikit-Learn, QML, LLMs, Transformers [cite: 7, 24, 48] |
-| **Languages** | [cite_start]Python, C++, Java, JavaScript, SQL [cite: 46] |
-| **Web & Cloud** | [cite_start]React.js, Node.js, Next.js, GCP, AWS, Azure [cite: 49, 50] |
-| **Databases** | [cite_start]MySQL, MongoDB, Neo4j (Certified Professional) [cite: 50, 53] |
+### ⚡ Professional Summary
+* [cite_start]**Current Focus**: Technical Head at SAAI [cite: 29, 39, 56] [cite_start]and Lead Student Ambassador for Google[cite: 25, 57].
+* [cite_start]**Research**: Published author in Quantum Machine Learning (QSVM)[cite: 19, 20].
+* [cite_start]**Education**: B.Tech in AI & Data Science (8.7 CGPA)[cite: 10, 14].
+* [cite_start]**Milestone**: AIR 1 (Silver Award) in LetsUpgrade 2025 program[cite: 58].
 
 ---
 
-### 📂 Featured Projects
-* [cite_start]**[CareerNexus - AI Career Advisor](https://github.com/rohit-7620)**: NLP-driven platform optimizing resume scores by 95%[cite: 33, 35].
-* [cite_start]**[EHR Analysis & Smart Healthcare](https://github.com/rohit-7620)**: LLM-based system using OCR and Blockchain for secure medical record summarization[cite: 36, 43, 44].
-* [cite_start]**[QSVM Heart Attack Prediction]**: Quantum ML model achieving 74% accuracy using QFT-based feature mapping[cite: 19].
+### 🛠 Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" />
+</p>
 
 ---
 
-### 📊 My Stats
-![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohit-7620&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-7620&layout=compact&theme=radical)
+### 🚀 Key Projects
+* [cite_start]**CareerNexus**: AI-driven career platform using NLP for 95% ATS optimization[cite: 33, 35].
+* [cite_start]**EHR Smart Healthcare**: Secure LLM-based health record analysis with Blockchain integration[cite: 36, 43, 44].
+* [cite_start]**QSVM Research**: Quantum Support Vector Machine for heart attack prediction[cite: 18, 19].
 
 ---
 
-### 🤝 Let's Connect
-- [cite_start]📧 **Email:** [rohitsalke@outlook.com](mailto:rohitsalke@outlook.com) [cite: 3]
-- [cite_start]💼 **LinkedIn:** [linkedin.com/in/rohit-salke](https://linkedin.com/in/rohit-salke) 
-- 🌐 **Portfolio:** [rohit-7620.github.io](https://rohit-7620.github.io)
+### 📊 Performance Metrics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohit-7620&show_icons=true&theme=transparent&rank_icon=github&border_radius=10" alt="Rohit's Stats" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/rohit-salke">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:rohitsalke@outlook.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=outlook" />
+  </a>
+</p>
